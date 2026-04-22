@@ -34133,6 +34133,24 @@
       "license": "gpl-3.0",
       "date_added": "Apr 20 2026",
       "suggested_by": "@ccleberg"
+    },
+    {
+      "title": "SwiftLangChain",
+      "category-ids": ["developer"],
+      "description": "A composable framework for building AI agents, tools, and prompt chains on Apple platforms using LLMs like OpenAI, Claude, and local models",
+      "source": "https://github.com/av-feaster/SwiftLangChain",
+      "tags": [
+        "swift",
+        "ai",
+        "llm",
+        "machine-learning",
+        "openai",
+        "claude",
+        "gemini"
+      ],
+      "license": "mit",
+      "date_added": "April 23, 2026",
+      "suggested_by": "@av-feaster"
     }
   ]
 }
